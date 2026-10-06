@@ -3,7 +3,7 @@
 **Effective Date:** September 18, 2026  
 **Last Updated:** September 18, 2026  
 **Developer:** Tshiamo Jantjie  
-**Contact Email:** tshiajan@gmail.com  
+**Contact Email:** janairedev@gmail.com  
 **Hosted Policy URL:** https://tshiajan.github.io/ai-hr-ecosystem-privacy/
 
 ---
@@ -83,5 +83,5 @@ We may periodically revise this Privacy Policy to reflect app updates or legal r
 If you have questions, feedback, or concerns regarding this Privacy Policy, please contact:
 
 **Developer:** Tshiamo Jantjie  
-**Email:** tshiajan@gmail.com  
+**Email:** janairedev@gmail.com  
 **Hosted Policy URL:** https://tshiajan.github.io/ai-hr-ecosystem-privacy/
